@@ -55,3 +55,7 @@ connectDB().then(() =>{
 
  
 
+ // "scripts": {
+  //   "dev": "nodemon src/server.js",
+  //   "start": "node src/server.js"
+  // },
