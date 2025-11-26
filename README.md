@@ -61,21 +61,17 @@ Mobile-first design with smooth UX and clean layout.
 
 ## 📸 Screenshots
 
-### 📝 Sign Up Page
-![Signup](https://github.com/RKdevelopers-app/fullstack-chat-app/blob/a08407509884220cb8413eb2da1ca72aa2c10bbb/screenshots/Screenshot%202025-11-26%20at%2014.48.12.png?raw=true)
+### 📝 Homepage
+![Homepage](https://github.com/RKdevelopers-app/mern-notes-app-THINKBOARD/blob/aa92fb98aa0c1abe52f671c7ae6b90551c97dc07/screenshots/Screenshot%202025-11-26%20at%2015.35.03.png?raw=true)
 
-### 🔐 Login Page
-![Login](https://github.com/RKdevelopers-app/fullstack-chat-app/blob/a08407509884220cb8413eb2da1ca72aa2c10bbb/screenshots/Screenshot%202025-11-26%20at%2014.35.36.png?raw=true)
+### 🔐 Redis Rate Limiting
+![Rate Limiting](https://github.com/RKdevelopers-app/mern-notes-app-THINKBOARD/blob/aa92fb98aa0c1abe52f671c7ae6b90551c97dc07/screenshots/Screenshot%202025-11-26%20at%2015.40.09.png?raw=true)
 
-### 💬 Chat Interface
-![Chat](https://github.com/RKdevelopers-app/fullstack-chat-app/blob/a08407509884220cb8413eb2da1ca72aa2c10bbb/screenshots/Screenshot%202025-11-26%20at%2014.36.55.png?raw=true)
+### 💬 Note Creation Inteface
+![Note Create](https://github.com/RKdevelopers-app/mern-notes-app-THINKBOARD/blob/aa92fb98aa0c1abe52f671c7ae6b90551c97dc07/screenshots/Screenshot%202025-11-26%20at%2015.28.36.png?raw=true)
 
-### 🎨 Settings Page
-![Settings](https://github.com/RKdevelopers-app/fullstack-chat-app/blob/a08407509884220cb8413eb2da1ca72aa2c10bbb/screenshots/Screenshot%20202
-
-
+### 🎨 Note Update and Delete
+![Update & Delete](https://github.com/RKdevelopers-app/mern-notes-app-THINKBOARD/blob/aa92fb98aa0c1abe52f671c7ae6b90551c97dc07/screenshots/Screenshot%202025-11-26%20at%2015.32.53.png?raw=true)
 
 
-
-## 📂 Project Structure
 
